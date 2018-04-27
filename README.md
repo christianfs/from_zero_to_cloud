@@ -1,2 +1,2 @@
-# from_zero_to_cloud
+# From Zero to the Cloud
 Exercises to practice node.js, restify and mongodb.
