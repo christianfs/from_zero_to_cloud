@@ -1,6 +1,6 @@
-const factorial = require('./factorial')
+import {factorial} from './factorial'
 
-console.log('n-factorial')
+console.log('=== n-factorial ===')
 
 const argv = require('yargs').demandOption('num').argv
 
